@@ -1,7 +1,7 @@
 import * as ReactNative from "react-native";
 import * as React from 'react'
 
-declare module "react-native-cached-image" {
+declare module "react-native-cached-image-ts" {
   namespace CachedImage {
     interface Image extends ReactNative.Image {
       /**

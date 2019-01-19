@@ -1,5 +1,5 @@
 {
-  "name": "react-native-cached-image",
+  "name": "react-native-cached-image-ts",
   "version": "1.4.3",
   "description": "CachedImage component for react-native",
   "main": "index.js",
@@ -22,19 +22,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kfiroo/react-native-cached-image"
+    "url": "https://github.com/noisyscanner/react-native-cached-image-ts"
   },
   "keywords": [
     "react-native",
     "cache",
     "image"
   ],
-  "author": "kfiroo <kfirgolan@gmail.com>",
+  "author": "Brad Reed <brad@bradreed.co.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kfiroo/react-native-cached-image/issues"
+    "url": "https://github.com/noisyscanner/react-native-cached-image-ts/issues"
   },
-  "homepage": "https://github.com/kfiroo/react-native-cached-image",
+  "homepage": "https://github.com/noisyscanner/react-native-cached-image-ts",
   "files": [
     "index.js",
     "CachedImage.js",
