@@ -1,6 +1,6 @@
 {
   "name": "react-native-cached-image-ts",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "CachedImage component for react-native",
   "main": "index.js",
   "scripts": {
@@ -43,7 +43,8 @@
     "ImageCacheManagerOptionsPropTypes.js",
     "ImageCachePreloader.js",
     "utils/fsUtils.js",
-    "utils/pathUtils.js"
+    "utils/pathUtils.js",
+    "index.d.ts"
   ],
   "types": "./index.d.ts",
   "dependencies": {
